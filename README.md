@@ -1,0 +1,2 @@
+# DemoHomeWork
+Synchrony data class
